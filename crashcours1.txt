@@ -1,0 +1,37 @@
+https://eu-central-1.console.aws.amazon.com/console/home?region=eu-central-1
+ec2-52-14-32-84.us-east-2.compute.amazonaws.com
+
+
+sudo docker images
+REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+21102000/modest_cohen     latest              9c3c432274f4        2 days ago          1.84kB
+repository/modest_cohen   latest              161440a95a23        2 days ago          152MB
+ubuntu                    latest              775349758637        4 weeks ago         64.2MB
+hello-world               latest              fce289e99eb9        11 months ago       1.84kB
+
+docker containers is pushed to dockerhub
+
+
+LEMP-done
+Nginx-done
+http://52.14.32.84
+
+LAMP-done
+Wordpress-done
+http://3.135.233.20
+http://13.59.81.1
+
+ System load:  0.0               Processes:              97
+  Usage of /:   34.4% of 7.69GB   Users logged in:        0
+  Memory usage: 38%               IP address for eth0:    172.31.34.239
+  Swap usage:   0%                IP address for docker0: 172.17.0.1
+
+
+
+
+
+
+
+
+
+
